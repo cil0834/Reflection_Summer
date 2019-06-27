@@ -10,7 +10,7 @@ import numpy as np
 def dates_in_myrors(
         years, months, days):
     """Formats the dates so that they have the 'yyyy-dd-mm-hhmmss' format
-    
+
     :param years: the years that will formatted
     :param months: the months that will be formatted
     :param days: the days that will be formatted
